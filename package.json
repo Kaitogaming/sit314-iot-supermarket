@@ -1,0 +1,15 @@
+{
+  "name": "sit314-iot-supermarket",
+  "version": "1.0.0",
+  "description": "Event-based IoT stock management microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0"
+  },
+  "author": "Nguyen Phuc Chien",
+  "license": "ISC"
+}
